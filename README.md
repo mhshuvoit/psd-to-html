@@ -1,3 +1,5 @@
-# Landing-Page-with-html-css-bootstrap
-A simple landing portfolio page with html, css, bootstrap.
-Visit site: https://duhoot.netlify.com
+# psd-to-html
+
+This is a project template for mern apps. It lives at https://duhoot.netlify.com
+
+A simple html, css, bootstrap page.
